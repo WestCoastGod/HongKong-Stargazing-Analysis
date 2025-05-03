@@ -9,7 +9,7 @@
    - `filtered_data.zip`: Include `daily_nsb.csv`, `combined_sun`, `combined_moon`, and `nsb_weather_merged`
    - `sky_brightness.zip`: Include every month's sky brightness data from January 2022 to October 2024
    - `weather.zip`: Include different kinds of weather data.
-6. The base code is on GitHub
+6. The dataset contains features from 1-1-2022 to 31-10-2024.
 7. `nsb_weather_merged` Dataset features:
    - _Daily Maximum Hong Kong Heat Index (MPSAS)_
    - _Min Night Sky Brightness (Non-zero) (MPSAS)_
