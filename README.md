@@ -11,7 +11,7 @@
    - `weather.zip`: Include different kinds of weather data
 6. The dataset contains features from 1-1-2022 to 31-10-2024
 7. `nsb_weather_merged` Dataset features:
-   - _Max Night Sky Brightness (MPSAS))_
+   - _Max Night Sky Brightness (MPSAS)_
    - _Min Night Sky Brightness (Non-zero) (MPSAS)_
    - _Mean Night Sky Brightness (Excluded zero) (MPSAS)_
    - _Daily Mean Hong Kong Heat Index_
