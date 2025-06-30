@@ -1,4 +1,4 @@
-## SEEM2460 Project
+## Hong Kong Stargazing Analysis Project
 
 ### Introduction
 
